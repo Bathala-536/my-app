@@ -1,0 +1,57 @@
+.MDBCarousel{
+    height: 312px;
+width: 534px;
+left: 73px;
+top: 289px;
+
+
+
+
+
+}
+.MDBCardBody{
+    height: 664px !important;
+    width: 672px !important;
+    left: 40px !important;
+    /* top: 20px !important; */
+    border-radius: 16px !important;
+    background: #F4F9F8;
+
+    
+    
+}
+.login{
+    height: 664px !important;
+    width: 672px !important;
+    left: 40px !important;
+    /* top: 20px !important; */
+    border-radius: 16px !important;
+   
+}
+h1,
+p {
+  font-family: Lato;
+}
+
+.login-form {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+}
+
+.btn {
+  margin-top: 15px;
+  width: 100%;
+}
+
+.Welcome {
+  text-align: center;
+}
+.img {
+  display: flex;
+  margin-top: 50px;
+  max-width: 70px;
+  align-items: center;
+}
